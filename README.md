@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Tenzies is a simple dice game where you have to roll until all dice are the same. There are 10 dice in total and you can click each die to freeze it at its current value between rolls.
